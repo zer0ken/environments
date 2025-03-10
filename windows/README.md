@@ -1,3 +1,4 @@
+## 윈도우 11
 ### 프로그램
 
 - [Windows Terminal](https://learn.microsoft.com/ko-kr/windows/terminal/install)
@@ -22,4 +23,16 @@
 `profile.ps1`:
 ```pwsh
 start $PROFILE
+```
+## WSL: Ubuntu
+
+### 프로그램
+
+- [oh-my-bash](https://github.com/ohmybash/oh-my-bash)
+
+### 비고
+
+`~/.bashrc`:
+```bash
+nano ~/.bashrc
 ```
