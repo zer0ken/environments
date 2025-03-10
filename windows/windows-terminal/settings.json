@@ -92,7 +92,7 @@
                 "weight": "normal"
             },
             "intenseTextStyle": "all",
-            "opacity": 85,
+            "opacity": 95,
             "padding": "24",
             "showMarksOnScrollbar": true,
             "snapOnInput": true,
@@ -111,12 +111,15 @@
                 "startingDirectory": "G:\\zer0ken"
             },
             {
+                "colorScheme": "Nord",
                 "guid": "{1b527863-0a11-524f-91ca-b369672b5876}",
                 "hidden": false,
                 "icon": "G:\\zer0ken\\wsl\\mnt\\shortcut.ico",
                 "name": "WSL: Ubuntu",
+                "opacity": 100,
                 "source": "Microsoft.WSL",
-                "startingDirectory": "G:\\zer0ken"
+                "startingDirectory": "G:\\zer0ken",
+                "useAcrylic": false
             },
             {
                 "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
