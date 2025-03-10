@@ -1,4 +1,0 @@
-Pretendard
-Noto Sans KR
-Noto Serif KR
-JetBrains Mono Hangul Nerd Font
