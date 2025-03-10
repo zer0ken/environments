@@ -1,4 +1,0 @@
-`~/.bashrc`:
-```bash
-nano ~/.bashrc
-```
