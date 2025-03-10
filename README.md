@@ -22,6 +22,7 @@
 
 `profile.ps1`:
 ```pwsh
+New-Item -Path $PROFILE -Type File -Force
 start $PROFILE
 ```
 ## WSL: Ubuntu
