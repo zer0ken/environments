@@ -8,6 +8,7 @@
 - [Node.js](https://nodejs.org/ko)
 - [TranslucentTB](https://apps.microsoft.com/detail/9pf4kz2vn4w9?hl=en-US&gl=US)
 - [Task Separator 11](https://github.com/DrummerSi/TaskSeparator11)
+- [oh-my-posh](https://ohmyposh.dev/docs/installation/windows)
 
 ### 폰트
 
