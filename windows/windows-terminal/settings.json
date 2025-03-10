@@ -92,7 +92,7 @@
                 "weight": "normal"
             },
             "intenseTextStyle": "all",
-            "opacity": 95,
+            "opacity": 90,
             "padding": "24",
             "showMarksOnScrollbar": true,
             "snapOnInput": true,
