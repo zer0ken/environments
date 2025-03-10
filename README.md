@@ -4,7 +4,7 @@
 - [Windows Terminal](https://learn.microsoft.com/ko-kr/windows/terminal/install)
 - [PowerShell](https://learn.microsoft.com/ko-kr/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.5)
 - [Git](https://git-scm.com/)
-- [Visual Studio Code](https://git-scm.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 - [Python](https://www.python.org/downloads/)
 - [Node.js](https://nodejs.org/ko)
 - [TranslucentTB](https://apps.microsoft.com/detail/9pf4kz2vn4w9?hl=en-US&gl=US)
