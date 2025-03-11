@@ -30,6 +30,7 @@ start $PROFILE
 
 ### 프로그램
 
+- [brew](https://brew.sh/)
 - [oh-my-bash](https://github.com/ohmybash/oh-my-bash)
 
 ### 비고

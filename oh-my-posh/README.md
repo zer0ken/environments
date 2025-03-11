@@ -1,3 +1,5 @@
+![](n0rd.png)
+
 사용 가능한 테마 확인:
 ```pwsh
 Get-PoshThemes
