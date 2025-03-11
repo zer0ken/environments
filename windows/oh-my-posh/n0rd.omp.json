@@ -91,10 +91,12 @@
           "invert_powerline": true,
           "powerline_symbol": "\ue0b2",
           "properties": {
-            "display_mode": "files"
+            "display_mode": "environment",
+            "fetch_virtual_env": true,
+            "home_enabled": true
           },
           "style": "powerline",
-          "template": " {{ if .Error }}{{ .Error }}{{ else }}{{ .Full }}{{ end }} \ue235 ",
+          "template": " {{ if .Error }}{{ .Error }}{{ else }}{{ .Full }}{{ end }}{{ if .Venv }} ({{ .Venv }}){{ end }} \ue235 ",
           "type": "python"
         },
         {
