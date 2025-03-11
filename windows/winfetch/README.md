@@ -3,7 +3,7 @@
 winfetch -genconf
 ```
 
-설정 파일 디렉토리:
+설정 파일 열기:
 ```pwsh
-start $env:USERPROFILE/.config/winfetch/
+start $env:USERPROFILE/.config/winfetch/config.ps1
 ```
