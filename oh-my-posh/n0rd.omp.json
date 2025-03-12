@@ -9,11 +9,11 @@
           "foreground": "#2e3440",
           "leading_diamond": "\ue0b6",
           "style": "diamond",
-          "template": "{{ if .WSL }}WSL{{ end }}{{.Icon}} ",
+          "template": "{{ if .WSL }}WSL at {{ end }}{{.Icon}} ",
           "type": "os"
         },
         {
-          "background": "#5e81ac",
+          "background": "#436796",
           "foreground": "#eceff4",
           "powerline_symbol": "\ue0b0",
           "properties": {
@@ -41,7 +41,7 @@
             "fetch_upstream_icon": true
           },
           "style": "powerline",
-          "template": " {{ .UpstreamIcon }} {{ .HEAD }}{{if .BranchStatus }} {{ .BranchStatus }}{{ end }}{{ if .Working.Changed }} \uf044 {{ .Working.String }}{{ end }}{{ if and (.Working.Changed) (.Staging.Changed) }} |{{ end }}{{ if .Staging.Changed }} \uf046 {{ .Staging.String }}{{ end }}{{ if gt .StashCount 0 }} \ueb4b {{ .StashCount }}{{ end }} ",
+          "template": " {{ .HEAD }}{{if .BranchStatus }} {{ .BranchStatus }}{{ end }}{{ if .Working.Changed }} \uf044 {{ .Working.String }}{{ end }}{{ if and (.Working.Changed) (.Staging.Changed) }} |{{ end }}{{ if .Staging.Changed }} \uf046 {{ .Staging.String }}{{ end }}{{ if gt .StashCount 0 }} \ueb4b {{ .StashCount }}{{ end }} ",
           "type": "git"
         }
       ],
@@ -178,7 +178,7 @@
           "foreground": "#2e3440",
           "invert_powerline": true,
           "style": "diamond",
-          "template": " {{ .CurrentDate | date .Format }} \uf017",
+          "template": " {{ .CurrentDate | date .Format }} \uf017 ",
           "trailing_diamond": "\ue0b4",
           "type": "time"
         }
