@@ -1,6 +1,6 @@
 # ===== WINFETCH CONFIGURATION =====
 
-$image = "$env:USERPROFILE/.config/winfetch/logo-x40.png"
+$image = "https://raw.githubusercontent.com/zer0ken/environments/refs/heads/main/winfetch/logo-x40.png"
 # $noimage = $true
 
 # Display image using ASCII characters
