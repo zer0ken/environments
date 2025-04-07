@@ -11,6 +11,7 @@
 - [Task Separator 11](https://github.com/DrummerSi/TaskSeparator11)
 - [oh-my-posh](https://ohmyposh.dev/docs/installation/windows)
 - [winfetch](https://github.com/lptstr/winfetch)
+- [uv](https://docs.astral.sh/uv/getting-started/)
 
 ### 폰트
 
