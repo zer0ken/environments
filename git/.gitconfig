@@ -1,7 +1,7 @@
 [user]
 	name = zer0ken
 	email = a37592777@gmail.com
-    signingKey = GPG-KEY
+	signingKey = GPG-KEY
 
 [credential]
 	helper = wincred
