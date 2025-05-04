@@ -33,7 +33,7 @@ start $PROFILE
 ### 프로그램
 
 - [brew](https://brew.sh/)
-- [oh-my-bash](https://github.com/ohmybash/oh-my-bash)
+- [oh-my-posh](https://ohmyposh.dev/docs/installation/windows)
 
 ### 비고
 
