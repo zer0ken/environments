@@ -6,10 +6,10 @@
 [credential]
 	helper = wincred
 
-[url "git@github.com:"]
+[url "https://github.com/"]
 	insteadOf = "g:"
-[url "git@github.com:zer0ken/"]
-	insteadOf = "z/"
+[url "https://github.com/zer0ken/"]
+	insteadOf = "z:"
 
 [pull]
 	rebase = true
