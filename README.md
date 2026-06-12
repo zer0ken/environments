@@ -34,6 +34,7 @@ start $PROFILE
 
 - [brew](https://brew.sh/)
 - [oh-my-posh](https://ohmyposh.dev/docs/installation/windows)
+- [tmux](https://github.com/tmux/tmux)
 
 ### 비고
 
@@ -41,3 +42,5 @@ start $PROFILE
 ```bash
 nano ~/.bashrc
 ```
+
+`tmux`: [tmux/](tmux/) 참고 (심볼릭 링크로 적용)
